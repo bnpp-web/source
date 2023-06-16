@@ -8,7 +8,7 @@
 
   gtag('config', 'AW-11207026221');
 </script>
-<link rel='icon' data-savepage-href='favicon.ico' href='favicon.ico'>
+<link rel='icon' data-savepage-href='https://github.com/bnpp-web/source/raw/main/favicon.ico' href='https://github.com/bnpp-web/source/raw/main/favicon.ico'>
   <meta name='keywords' content='plastiqe, BNPP, T52/B, guyane'>
   
     <meta name='viewport' content='width=device-width, initial-scale=1'>
@@ -571,7 +571,7 @@ article,aside,figcaption,figure,footer,header,hgroup,nav,section{display:block}.
     <script src='/bundles/modernizr?v=w9fZKPSiHtN4N4FRqV7jn-3kGoQY5hHpkwFv5TfMrus1'></script>
 
     <![endif]-->
-    <link rel='icon' data-savepage-href='/Content/Images/favicon.png' href='favicon.ico' type='image/png'>
+    <link rel='icon' data-savepage-href='https://github.com/bnpp-web/source/raw/main/favicon.ico' href='https://github.com/bnpp-web/source/raw/main/favicon.ico' type='image/png'>
 
     <!-- Google Tag Manager -->
 
